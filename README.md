@@ -14,4 +14,4 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 * **Amilkar Neculman** - Diseño
 * **Pere Heredia** - Programador BackEnd principal - [perher13](https://github.com/perher13)
 ---
-⌨️ con ❤️ por [perher13](https://github.com/perher13)   
+⌨️ por [perher13](https://github.com/perher13)   
