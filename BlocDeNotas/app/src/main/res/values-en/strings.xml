@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BlocDeNotas</string>
+
+    <string name="label1_Start">Little notes</string>
+
+    <string name="toast1_Listado">Press an item</string>
+
+    <string name="label1_crearNotas">Write a note</string>
+    <string name="caja1_crearNotas">Note</string>
+    <string name="boton1_crearNotas">CREATE</string>
+    <string name="boton2_crearNotas">RETURN</string>
+    <string name="toast1_crearNotas">Obligatory note</string>
+    <string name="toast2_crearNotas">Note created successfully</string>
+
+    <string name="label1_VerNotas">Information from note</string>
+    <string name="boton1_VerNotas">RETURN</string>
+    <string name="boton2_VerNotas">DELETE</string>
+    <string name="toast1_VerNotas">Note deleted successfully</string>
+
+    <string name="boton1_borrarNotas">DELETE ALL NOTES</string>
+    <string name="boton2_borrarNotas">RETURN</string>
+    <string name="toast1_borrarNotas">All notes have been deleted successfully</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BlocDeNotas</string>
+
+    <string name="label1_Start">Notetes</string>
+
+    <string name="toast1_Listado">Pulsa a un item</string>
+
+    <string name="label1_crearNotas">Escriu una nota</string>
+    <string name="caja1_crearNotas">Nota</string>
+    <string name="boton1_crearNotas">CREAR</string>
+    <string name="boton2_crearNotas">TORNAR</string>
+    <string name="toast1_crearNotas">Nota obligatoria</string>
+    <string name="toast2_crearNotas">Nota creada correctament</string>
+
+    <string name="label1_VerNotas">Informació de la nota</string>
+    <string name="boton1_VerNotas">TORNAR</string>
+    <string name="boton2_VerNotas">BORRAR</string>
+    <string name="toast1_VerNotas">Nota borrada correctament</string>
+
+    <string name="boton1_borrarNotas">BORRAR TOTES LES NOTES</string>
+    <string name="boton2_borrarNotas">TORNAR</string>
+    <string name="toast1_borrarNotas">Se han borrat totes les notes correctament</string>
+</resources>

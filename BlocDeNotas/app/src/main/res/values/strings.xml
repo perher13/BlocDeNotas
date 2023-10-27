@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BlocDeNotas</string>
+
+    <string name="label1_Start">Notitas</string>
+
+    <string name="toast1_Listado">Pulso en un item</string>
+
+    <string name="label1_crearNotas">Escribe una nota</string>
+    <string name="caja1_crearNotas">Nota</string>
+    <string name="boton1_crearNotas">CREAR</string>
+    <string name="boton2_crearNotas">VOLVER</string>
+    <string name="toast1_crearNotas">Nota obligatoria</string>
+    <string name="toast2_crearNotas">Nota creada correctamente</string>
+
+    <string name="label1_VerNotas">Información de la nota</string>
+    <string name="boton1_VerNotas">VOLVER</string>
+    <string name="boton2_VerNotas">BORRAR</string>
+    <string name="toast1_VerNotas">Nota borrada correctamente</string>
+
+    <string name="boton1_borrarNotas">BORRAR TODAS LAS NOTAS</string>
+    <string name="boton2_borrarNotas">VOLVER</string>
+    <string name="toast1_borrarNotas">Se han borrado todas las notas correctamente</string>
+</resources>
